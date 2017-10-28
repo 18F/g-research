@@ -2,6 +2,8 @@
 
 /* @override http://localhost:4000/stylesheets/screen.css */
 
+/* @override http://localhost:4000/stylesheets/screen.css */
+
 /* @group bootstrap */
 
 html {
@@ -71,18 +73,6 @@ a.button span.slack::before{
 	max-width: 960px;
 	margin: 0 auto;
 	position: relative;
-}
-
-
-/* Travel Guide Image Toggles */
-a.travel-image-link{
-  display: block;
-  font-size: 95%;
-  cursor: pointer;
-}
-
-img.travel-guide-hide{
-  display: none;
 }
 
 @media screen and (min-width: 336.84px){ .wrapper{ width: 90%; }  }
@@ -843,7 +833,6 @@ a[id]{
 	border-radius: 3px;
 	border: 1px solid #eee;
 	margin: 0 auto;
-	max-width: 640px;
 	table-layout: fixed;
 	box-shadow: 0 0 0 2px #fafafa;
 }
@@ -856,7 +845,7 @@ a[id]{
 }
 
 @media screen and (min-width: 711.11px){
-	.page .table-wrapper{ max-width: 640px; }
+	.page .table-wrapper{ max-width: 800px; }
 }
 
 .page table tbody tr:first-child td:first-child{
@@ -1211,3 +1200,42 @@ a[id]{
 /* @end */
 
 /* @end */
+
+/* @group .layout-usability-test-quality-heuristics */
+
+.layout-article-usability-test-quality-heuristics table th,
+.layout-article-usability-test-quality-heuristics table td{
+  font-size: 0.9em;
+  line-height: 1.33em;
+  border: 1px solid #555;
+  vertical-align: middle;
+}
+
+.layout-article-usability-test-quality-heuristics .col-indicator{ 
+	width: 11em; 
+	text-align: right;
+}
+.layout-article-usability-test-quality-heuristics th,
+.layout-article-usability-test-quality-heuristics th.col-indicator,
+.layout-article-usability-test-quality-heuristics td[colspan="3"]{ 
+	text-align: left; 
+	font-weight: 600;
+}
+
+.layout-article-usability-test-quality-heuristics th.col-indicator{
+  background: #eee;
+}
+
+.layout-article-usability-test-quality-heuristics .page table  tr:nth-child(n) .col-good-sign{ 
+  background: #ebeef9;
+  color: #102b10;
+}
+
+.layout-article-usability-test-quality-heuristics .page table tr:nth-child(n) .col-bad-sign{ 
+  background: #f9ecec;
+  color: #5e191a;
+}
+
+
+/* @end */
+
