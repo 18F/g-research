@@ -1,5 +1,6 @@
 # Research Guild Co-Lead Role Description
 
+
 ## Objectives
 
 Co-leads spend an average of **three hours a week** working towards the following objectives (in collaboration with their co-lead and members, as appropriate):
@@ -11,6 +12,7 @@ Co-leads spend an average of **three hours a week** working towards the followin
 - Coordinate regular opportunities for engagement and community building (for example, weekly meetings)
 - Help members in identifying and sharing their tacit knowledge (for example, by taking notes while members present to the guild)
 - Drive consensus around what constitutes good research, and celebrate practitioners and projects modelling good research
+
 
 ### Objective B: Chart a path for the guild
 
@@ -26,7 +28,9 @@ Co-leads spend an average of **three hours a week** working towards the followin
 - Raise awareness of research as a driver of value at TTS (For example, in collaboration with the [18F Methods Product Owner](https://github.com/18F/methods/blob/staging/PRODUCT_OWNER.md), collect usage metrics for research-related methods)
 - Advocate for tools, policies, and other documentation that will enable broader adoption of design research
 
+
 ## Onboarding
+
 The TTS Research Guild co-lead should
 
 - Read and review the [TTS Handbook](https://handbook.18f.gov/) (specifically the [research guidelines](https://handbook.18f.gov/research-guidelines/)), the forthcoming (18F UX guide)[https://github.com/18F/ux-guide], and the [Privacy Impact Assessment for Design Research](https://www.gsa.gov/cdnstatic/20181022%20-%20Design%20Research%20PIA_posted%20version.pdf).
