@@ -8,17 +8,17 @@ Co-leads spend an average of **three hours a week** working towards the followin
 
 ### Objective A: Maintain the guild as a community of practice
 
-- Recruit new members, and increase member participation
-- Coordinate regular opportunities for engagement and community building (for example, weekly meetings)
-- Help members in identifying and sharing their tacit knowledge (for example, by taking notes while members present to the guild)
+- Recruit new members and increase member participation
+- Coordinate regular opportunities for engagement and community building (for example, weekly meetings, bi-weekly bulletins)
+- Help members in identifying and sharing their knowledge, both tacit and explicit (for example, by taking notes while members present to the guild)
 - Drive consensus around what constitutes good research, and celebrate practitioners and projects modelling good research
 
 
 ### Objective B: Chart a path for the guild
 
-- Establish and pursue [annual goals](https://docs.google.com/document/d/1ReAVduSUc7GsBQixaLJDNETHD3Lg82-VdGnGqxlSxHE/edit#heading=h.92c5gxf5vmtt) for the guild
-- Establish guild-sanctioned projects, as appropriate
-- Solicit contributions from guild members, as appropriate
+- Establish and pursue [annual goals](https://github.com/18F/g-research/wiki/TTS-Research-Guild-Objectives-for-2019) for the guild
+- Establish guild-sanctioned projects (for example, drafting a privacy impact assessment for design research) 
+- Solicit contributions from guild members (for example, ask members to speak, mentor, or join a working group)
 
 
 ### Objective C: Advocate for and evangelize research
@@ -33,7 +33,7 @@ Co-leads spend an average of **three hours a week** working towards the followin
 
 The TTS Research Guild co-lead should
 
-- Read and review the [TTS Handbook](https://handbook.18f.gov/) (specifically the [research guidelines](https://handbook.18f.gov/research-guidelines/)), the forthcoming (18F UX guide)[https://github.com/18F/ux-guide], and the [Privacy Impact Assessment for Design Research](https://www.gsa.gov/cdnstatic/20181022%20-%20Design%20Research%20PIA_posted%20version.pdf).
+- Read and review the [TTS Handbook](https://handbook.18f.gov/) (specifically the [research guidelines](https://handbook.18f.gov/research-guidelines/)), the forthcoming [18F UX guide](https://github.com/18F/ux-guide), and the [Privacy Impact Assessment for Design Research](https://www.gsa.gov/cdnstatic/20181022%20-%20Design%20Research%20PIA_posted%20version.pdf).
 - Understand the process by which we procure and pilot new research tools
 - Be introduced to points of contact within other design- and research-friendly government communities. For example, GSA’s Customer Experience Community of Practice, and the Federal User Experience Community of Practice.
 - Be introduced to points of contact in the GSA privacy office, Office of General Counsel, and PRA Desk Office
