@@ -29,7 +29,7 @@ The research guild occasionally welcomes outside speakers to help inform the per
 - We will ask you to join us the day before for a brief tech check
 
 
-## People on the call
+### People on the call
 
 - Most TTS staff are term-limited, meaning we can serve up to four years in our roles. While some of us are newer to government service, others have deep government experience. We run the gamut.
 
@@ -38,6 +38,6 @@ The research guild occasionally welcomes outside speakers to help inform the per
 - We can offer a curious, thoughtful audience and feedback, if desired, on your materials and presentation
 
 
-## What we will need from you
+### What we'll need from you
 
 If you're interested in joining us, please reach out to 18f-research@gsa.gov. Please include a brief description of what you'd like to talk about, a two-to-three sentence bio (including your preferred pronouns), and anything else you feel it would be helpful for us to know in preparation for hosting your session.
