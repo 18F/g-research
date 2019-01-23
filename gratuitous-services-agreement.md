@@ -7,11 +7,14 @@ I understand and acknowledge that I will not be paid or otherwise compensated fo
 I freely and voluntarily waive any right, claim, or other recourse against the United States Government relating to my gratuitous services. 
  
 
-_________________
+\______________________
+
 Presenter
 
-_________________
+\______________________
+
 Organization
 
-_________________
+\______________________
+
 Date
