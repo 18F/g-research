@@ -1,6 +1,6 @@
 # TTS Research Guild
 
-The TTS Research Guild is a community of practice for TTS staff interested in design research. To join the guild, simply [join the #g-research channel on Slack](https://gsa-tts.slack.com/messages/C03JK2KH8) and ask [a lead](https://docs.google.com/document/d/1HGlH1_RY0YQufSZzntMYFKzKS5X3skIriImE0M_2Kjk/edit#heading=h.ogel0f44ifru) to be added to our weekly meetings. Members generally attend weekly meetings, share articles and anecdotes, discuss best practices, review research plans, etc. 
+The TTS Research Guild is a community of practice for TTS staff interested in and practicing design research. To join the guild, simply [join the #g-research channel on Slack](https://gsa-tts.slack.com/messages/C03JK2KH8) and ask [a lead](https://docs.google.com/document/d/1HGlH1_RY0YQufSZzntMYFKzKS5X3skIriImE0M_2Kjk/edit#heading=h.ogel0f44ifru) to be added to our weekly meetings. Members generally attend weekly meetings, share articles and anecdotes, discuss best practices, review research plans, etc. 
 
 Guild meetings are Wednesdays, from 2-2:30 EST, and generally serve as a forum for addressing member questions related to topics such as:
 
