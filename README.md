@@ -18,7 +18,7 @@ We exist to build an active, informed, inclusive community of practice for desig
 - Leading discussions on topics of shared interest (like research participant recruiting; see below) and best practices
 - Helping members develop the sensitivites to navigate culturally complex research environments
 - Creating safe spaces for peer feedback, and encouraging reflective practice
-- Help one another get research done (for example, by collaborating on interview guides), 
+- Helping one another get research done (for example, by collaborating on interview guides), 
 - Highlighting opportunities to plan, observe (shadow), practice, and reflect on research
 - Co-creating reusable documentation, templates, resources
 - Sharing topical articles, videos, etc.
