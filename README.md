@@ -24,7 +24,7 @@ We exist to build an active, informed, inclusive community of practice for desig
 - Sharing topical articles, videos, etc.
 
 
-## Topics of interest
+### Topics of interest
 
 - Research administration
 - Creating and disseminating surveys
