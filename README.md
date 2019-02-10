@@ -24,15 +24,17 @@ We exist to build an active, informed, inclusive community of practice for desig
 - Sharing topical articles, videos, etc.
 
 
-### Topics of interest
+#### Topics of interest
 
+- Research program management
 - Research administration
-- Creating and disseminating surveys
+- Research design
+- Research operations
 - Research participant recruiting strategies
 - Informing and collecting consent
 - Recording feedback on people's use and perception of government services
 - Navigating culturally complex research environments
-- GSA-sanctioned Data practices (for example, creating, archiving, sharing, and deleting records) and data minimization techniques (for example, de-identifying recordings)
+- GSA-sanctioned data practices (for example, creating, de-identifying,  sharing, archiving and deleting records)
 - Conducting shared analysis or synthesis 
 - Creating research artifacts (for example, a report detailing usability errors).
-- Legal, ethical, bias- and privacy-issues related to research
+- Legal, ethical, bias- and privacy-issues related to research (for example, PRA)
