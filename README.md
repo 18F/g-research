@@ -1,6 +1,6 @@
-# TTS Research Guild
+# Research Guild
 
-The TTS Research Guild is a GSA-local community of practice for design researchers and design-research enthusiasts. To join the guild, simply [join the #g-research channel on the GSA-TTS Slack](https://gsa-tts.slack.com/messages/C03JK2KH8) and ask [a lead](https://docs.google.com/document/d/1HGlH1_RY0YQufSZzntMYFKzKS5X3skIriImE0M_2Kjk/edit#heading=h.ogel0f44ifru) to be added to our weekly meetings, Wednesdays, from 2-2:30 EST. 
+The Research Guild is a community of practice for design researchers and design-research enthusiasts within the General Services Administration (GSA). To join the guild, simply [join the #g-research channel on the GSA-TTS Slack](https://gsa-tts.slack.com/messages/C03JK2KH8) and ask [a lead](https://docs.google.com/document/d/1HGlH1_RY0YQufSZzntMYFKzKS5X3skIriImE0M_2Kjk/edit#heading=h.ogel0f44ifru) to be added to our weekly meetings, Wednesdays, from 2-2:30 EST. 
 
 
 ## Vision 
@@ -10,9 +10,9 @@ We envision a world where government agencies use design research to proactively
 
 ## Mission
 
-We exist to build an active, informed, inclusive community of practice for design researchers and design-research enthusiasts here at TTS. We will do this by:
+We exist to build an active, informed, inclusive community of practice for design researchers and design-research enthusiasts at GSA. We will do this by:
 
-- Inviting participation from across GSA/TTS (18F, OPP, PIF, etc.)
+- Inviting participation from across GSA (TTS, 18F, OPP, PIF, etc.)
 - Inviting [luminaries outside of GSA to speak](https://github.com/18F/g-research/blob/master/speaking.md)
 - Raising awareness of the importance and methods of design research across GSA
 - Leading discussions on topics of shared interest (like research participant recruiting; see below) and best practices
