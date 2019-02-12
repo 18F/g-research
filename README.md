@@ -5,7 +5,7 @@ The Research Guild is a community of practice for design researchers and design-
 
 ## Vision 
 
-We envision a world where government agencies use design research to proactively shape their decision-making processes and to inform their design decisions
+We envision a world where government agencies use design research to proactively shape their decision-making processes and to inform their design decisions.
 
 
 ## Mission
