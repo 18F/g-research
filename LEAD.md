@@ -16,7 +16,7 @@ Co-leads spend an average of **three hours a week** working towards the followin
 
 ### Objective B: Chart a path for the guild
 
-- Establish and pursue [annual goals](https://github.com/18F/g-research/wiki/TTS-Research-Guild-Objectives-for-2019) for the guild
+- Establish and pursue [annual goals](https://github.com/18F/g-research/wiki/2019-goals) for the guild
 - Establish guild-sanctioned projects (for example, drafting a privacy impact assessment for design research) 
 - Solicit contributions from guild members (for example, ask members to speak, mentor, or join a working group)
 
