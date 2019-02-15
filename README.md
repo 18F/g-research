@@ -16,7 +16,7 @@ We exist to build an active, informed, inclusive community of practice for desig
 - Inviting [luminaries to speak](https://github.com/18F/g-research/blob/master/speaking.md)
 - Providing and highlighting opportunities to plan, observe (shadow), practice, study, and discuss research (see below)
 - Raising awareness of the importance and methods of design research across GSA
-- Helping members develop the sensitivites to navigate culturally complex research environments
+- Helping members develop the sensitivities to navigate culturally complex research environments
 - Co-creating reusable documentation, including presentations, templates, resources, etc.
 - Sharing topical articles, books, videos, etc.
 - Creating safe spaces for peer feedback, and encouraging reflective practice
