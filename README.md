@@ -33,6 +33,7 @@ We exist to build an active, informed, inclusive community of practice for desig
 - Research participant recruiting strategies
 - Informing and collecting consent
 - Recording feedback on people's use and perception of government services
+- Mixed methods
 - Navigating culturally complex research environments
 - GSA-sanctioned data practices (for example, creating, de-identifying,  sharing, archiving and deleting records)
 - Conducting shared analysis or synthesis 
