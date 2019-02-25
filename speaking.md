@@ -20,9 +20,9 @@ Our guild normally meets Wednesdays from 2-2:30 EST, and the format is largely u
 
 The research guild occasionally welcomes outside speakers to help inform the perspective of our agency's researchers. We’re specifically looking for people that can help us better understand innovative research practices happening outside of government. If that sounds like you, and you're interested in joining us, here are some things you should know:
 
-- We cannot offer you payment or any other form of compensation for speaking to us. (If you’re in DC, you're welcome to join us over at 1800 F Street NW. Our space is nice, and you can chat with local 18F staff.) We will ask you to sign a [Gratuitous Service Agreement](https://github.com/18F/g-research/blob/master/gratuitous-services-agreement.md) indicating your agreement to waive compensation
+- We cannot offer you payment or any other form of compensation for speaking to us. (If you’re in DC, you're welcome to join us over at 1800 F Street NW. Our space is nice, and you can chat with local 18F staff.) We will ask you to sign a [Gratuitous Service Agreement](https://github.com/18F/g-research/blob/master/gratuitous-services-agreement.md) (indicating your agreement to waive compensation) and a [Model Release](https://github.com/18F/g-research/blob/master/model-release.md) (indicating your agreement to be recorded). 
 
-- We usually record these sessions and share the recordings internally — and, when possible, publicly. If there is anything you do not wish to be recorded or shared, please let us know. You can expect ten to twenty people to attend the session and more to watch any videos after
+- Recorded sessions are shared internally and, when possible, publicly. If there is anything you do not wish to be recorded or shared, please let us know. You can expect ten to twenty people to attend the session and more to watch any videos after
 
 - Guild speaker sessions are normally conducted via Zoom. Members also generally have access to Google Apps and Mural.ly (a digital whiteboarding tool). Guild leadership is happy to help facilitate if you’d like to do some kind of break-out activity
 
