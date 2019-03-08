@@ -1,6 +1,6 @@
 # TTS Research Guild
 
-The Technology Transformation Service's (TTS) Research Guild is a community of practice for design researchers and design-research enthusiasts within the General Services Administration (GSA). GSA staff can join the guild by [joining the #g-research channel on the GSA-TTS Slack](https://gsa-tts.slack.com/messages/C03JK2KH8) and ask [a lead](https://docs.google.com/document/d/1HGlH1_RY0YQufSZzntMYFKzKS5X3skIriImE0M_2Kjk/edit#heading=h.ogel0f44ifru) to be added to our weekly meetings, Wednesdays, from 2-2:30 EST. 
+The Technology Transformation Service's (TTS) Research Guild is a community of practice for design researchers and design-research enthusiasts within the General Services Administration (GSA). GSA staff can join the guild by [joining the #g-research channel on the GSA-TTS Slack](https://gsa-tts.slack.com/messages/C03JK2KH8) and ask [a lead](https://docs.google.com/document/d/1HGlH1_RY0YQufSZzntMYFKzKS5X3skIriImE0M_2Kjk/edit#heading=h.ogel0f44ifru) to be added to our weekly meetings, Tuesdays, from 2-2:30 EST. 
 
 
 ## Vision 
