@@ -13,7 +13,7 @@ In addition to helping design better government services, 18F coaches the agenci
 
 TTS has a number of guilds that function as communities of practice here at the GSA. The Research Guild has a diverse membership that includes professional researchers with private-sector experience (mainly 18F staff) and career public servants who are research curious (mainly from other parts of GSA).
 
-Our guild normally meets Wednesdays from 2-2:30 EST, and the format is largely unstructured. Sometimes we'll discuss a few of the big questions that researchers tend to wrestle with (“how can we invite a more diverse group of people to participate in our research?”); at other times, one or two members will share how they’ve conducted research on their last/current project. Most meetings are recorded.
+Our guild normally meets Tuesdays from 2-2:30 EST, and the format is largely unstructured. Sometimes we'll discuss a few of the big questions that researchers tend to wrestle with (“how can we invite a more diverse group of people to participate in our research?”); at other times, one or two members will share how they’ve conducted research on their last/current project. Most meetings are recorded.
 
 
 ## Speaking with us
